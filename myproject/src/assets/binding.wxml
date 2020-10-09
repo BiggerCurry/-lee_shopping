@@ -1,0 +1,4 @@
+<view>姓名:{{username}}</view>
+<view>年龄:{{age}}</view>
+<view>性别:{{sex ? '男' : '女'}}</view>
+<view><image src="{{imageurl}}" class="{{classname}}"/></view>
